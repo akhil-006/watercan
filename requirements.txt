@@ -1,0 +1,7 @@
+django
+requests
+celery
+coverage
+flake8
+isort
+black
